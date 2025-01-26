@@ -42,7 +42,7 @@ Based on my  analysis my recommendations are the following:
    
 ## For More Information:
 See the full analysis in the <a href="https://github.com/KBE25/hotel_analysis/blob/main/notebook.ipynb">Jupyter Notebook</a>.
-The business information can also be found in <a href="https://github.com/KBE25/hotel_analysis/blob/main/presentation.pdf">this presentation. </a>
+The business information can also be found in <a href="https://github.com/KBE25/hotel_analysis/blob/main/presentation%20.pdf">this presentation. </a>
 
 For additional info, contact Karina Basto-Eyzaguirre at karinabastoe@gmail.com.
 
@@ -52,7 +52,7 @@ For additional info, contact Karina Basto-Eyzaguirre at karinabastoe@gmail.com.
 - <a href="https://github.com/KBE25/hotel_analysis/blob/main/README.md"> README.md </a>
 - <a href="https://github.com/KBE25/hotel_analysis/blob/main/helper.py"> helper.py </a>
 - <a href="https://github.com/KBE25/hotel_analysis/blob/main/notebook.ipynb"> notebook.ipynb </a>
-- <a href="https://github.com/KBE25/hotel_analysis/blob/main/presentation.pdf"> presentation </a>
+- <a href="https://github.com/KBE25/hotel_analysis/blob/main/presentation%20.pdf"> presentation </a>
 
 ### Resources
 - <a href="https://www.ahla.com/">American Hotel and Lodging Association</a>
